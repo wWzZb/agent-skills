@@ -9,6 +9,8 @@ A growing index of reusable Agent Skills that I build and maintain for AI-assist
 | Skill | What it does | Works with | Source & install |
 |---|---|---|---|
 | **Conversation Review** | Turns conversations and work traces into scoped, evidence-based retrospectives in Markdown or self-contained HTML. | Codex, Claude Code, Cursor, and other Agent Skills-compatible tools | [Source](https://github.com/wWzZb/codex-conversation-review-skill) · `npx skills add wWzZb/codex-conversation-review-skill` |
+| **LeetCode Hot 100 Coach** | Guides Python beginners through LeetCode Hot 100 with worked examples, progressively fewer hints, and a local dashboard for practice and review. | Codex with Python 3 on macOS or Linux | [Source](https://github.com/wWzZb/leetcode-hot100-coach) · [Install guide](https://github.com/wWzZb/leetcode-hot100-coach#安装-skill) |
+| **UI State Board** | Renders real frontend code in an interactive review board where you can browse page states, try interactions, and copy element IDs for feedback. | Codex | [Source](https://github.com/wWzZb/ui-state-board) · `npx skills add wWzZb/ui-state-board` · [Live demo](https://wwzzb.github.io/ui-state-board/board/) |
 
 ## Quick Start
 
